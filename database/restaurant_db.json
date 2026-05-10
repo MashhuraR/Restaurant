@@ -1,0 +1,403 @@
+{
+  "menu_items": {
+    "9bcf2311": {
+      "id": "9bcf2311",
+      "name": "Osh",
+      "price": 35000,
+      "category": "Asosiy taomlar",
+      "description": "An'anaviy o'zbek oshi",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 30,
+      "created_at": "2026-05-08T22:47:34.649669"
+    },
+    "98ae5bdc": {
+      "id": "98ae5bdc",
+      "name": "Lag'mon",
+      "price": 35000,
+      "category": "Asosiy taomlar",
+      "description": "Qo'lda tayyorlangan lag'mon",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 25,
+      "created_at": "2026-05-08T22:47:34.649768"
+    },
+    "de404a17": {
+      "id": "de404a17",
+      "name": "Shurva",
+      "price": 28000,
+      "category": "Sho'rvalar",
+      "description": "Go'sht va sabzavotli shurva",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 20,
+      "created_at": "2026-05-08T22:47:34.649790"
+    },
+    "654794ce": {
+      "id": "654794ce",
+      "name": "Mastava",
+      "price": 25000,
+      "category": "Sho'rvalar",
+      "description": "Guruchli mastava",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 20,
+      "created_at": "2026-05-08T22:47:34.649803"
+    },
+    "d1294fef": {
+      "id": "d1294fef",
+      "name": "Chuchvara",
+      "price": 30000,
+      "category": "Asosiy taomlar",
+      "description": "Qaynatilgan chuchvara",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 20,
+      "created_at": "2026-05-08T22:47:34.649816"
+    },
+    "a43a116a": {
+      "id": "a43a116a",
+      "name": "Samsa",
+      "price": 8000,
+      "category": "Tez taomlar",
+      "description": "Tandirda pishirilgan samsa",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 10,
+      "created_at": "2026-05-08T22:47:34.649828"
+    },
+    "ff775758": {
+      "id": "ff775758",
+      "name": "Shirmon",
+      "price": 20000,
+      "category": "Shirinliklar",
+      "description": "Milliy shirmon",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 15,
+      "created_at": "2026-05-08T22:47:34.649853"
+    },
+    "8ecd4fea": {
+      "id": "8ecd4fea",
+      "name": "Ko'k choy",
+      "price": 8000,
+      "category": "Ichimliklar",
+      "description": "Ariq suvi bilan ko'k choy",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 5,
+      "created_at": "2026-05-08T22:47:34.649865"
+    },
+    "acdb135f": {
+      "id": "acdb135f",
+      "name": "Qora choy",
+      "price": 8000,
+      "category": "Ichimliklar",
+      "description": "Limon bilan qora choy",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 5,
+      "created_at": "2026-05-08T22:47:34.649875"
+    },
+    "48d213f7": {
+      "id": "48d213f7",
+      "name": "Coca-Cola",
+      "price": 12000,
+      "category": "Ichimliklar",
+      "description": "Sovuq ichimlik",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 2,
+      "created_at": "2026-05-08T22:47:34.649885"
+    },
+    "fbbee36f": {
+      "id": "fbbee36f",
+      "name": "Shashlik",
+      "price": 55000,
+      "category": "Asosiy taomlar",
+      "description": "O'tin o'tida pishirilgan shashlik",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 35,
+      "created_at": "2026-05-08T22:47:34.649897"
+    },
+    "bc359255": {
+      "id": "bc359255",
+      "name": "Salat Toshkent",
+      "price": 22000,
+      "category": "Salatlar",
+      "description": "Toshkent salati",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 10,
+      "created_at": "2026-05-08T22:47:34.649906"
+    },
+    "1797ea8f": {
+      "id": "1797ea8f",
+      "name": "Achiq-chuchuk",
+      "price": 15000,
+      "category": "Salatlar",
+      "description": "Achchiq va shirin sabzavotlar",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 10,
+      "created_at": "2026-05-08T22:47:34.649916"
+    },
+    "0c63d431": {
+      "id": "0c63d431",
+      "name": "Manti",
+      "price": 32000,
+      "category": "Asosiy taomlar",
+      "description": "Bug'da pishirilgan manti",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 40,
+      "created_at": "2026-05-08T22:47:34.649928"
+    },
+    "94505e49": {
+      "id": "94505e49",
+      "name": "Lavash",
+      "price": 30000.0,
+      "category": "Tez taomlar",
+      "description": "",
+      "is_available": true,
+      "image_url": "",
+      "preparation_time": 15,
+      "created_at": "2026-05-10T14:03:13.773639"
+    }
+  },
+  "orders": {
+    "ORD-87B3CB": {
+      "id": "ORD-87B3CB",
+      "customer_name": "Ali",
+      "order_type": "dine_in",
+      "table_number": "3",
+      "items": [
+        {
+          "menu_item_id": "9bcf2311",
+          "menu_item_name": "Osh",
+          "quantity": 1,
+          "unit_price": 45000,
+          "subtotal": 45000,
+          "notes": ""
+        },
+        {
+          "menu_item_id": "8ecd4fea",
+          "menu_item_name": "Ko'k choy",
+          "quantity": 1,
+          "unit_price": 8000,
+          "subtotal": 8000,
+          "notes": ""
+        }
+      ],
+      "status": "delivered",
+      "subtotal": 53000,
+      "discount_percent": 0.0,
+      "discount_amount": 0.0,
+      "total": 53000.0,
+      "item_count": 2,
+      "special_instructions": "",
+      "created_at": "2026-05-08T22:48:38.813218",
+      "updated_at": "2026-05-08T22:48:59.419786"
+    },
+    "ORD-FE9AF1": {
+      "id": "ORD-FE9AF1",
+      "customer_name": "Vali",
+      "order_type": "delivery",
+      "table_number": null,
+      "items": [
+        {
+          "menu_item_id": "9bcf2311",
+          "menu_item_name": "Osh",
+          "quantity": 1,
+          "unit_price": 45000,
+          "subtotal": 45000,
+          "notes": ""
+        },
+        {
+          "menu_item_id": "fbbee36f",
+          "menu_item_name": "Shashlik",
+          "quantity": 1,
+          "unit_price": 55000,
+          "subtotal": 55000,
+          "notes": ""
+        }
+      ],
+      "status": "delivered",
+      "subtotal": 100000,
+      "discount_percent": 0.0,
+      "discount_amount": 0.0,
+      "total": 100000.0,
+      "item_count": 2,
+      "special_instructions": "",
+      "created_at": "2026-05-08T22:49:44.064214",
+      "updated_at": "2026-05-08T22:49:51.731101"
+    },
+    "ORD-277CBF": {
+      "id": "ORD-277CBF",
+      "customer_name": "Soli",
+      "order_type": "takeaway",
+      "table_number": null,
+      "items": [
+        {
+          "menu_item_id": "a43a116a",
+          "menu_item_name": "Samsa",
+          "quantity": 4,
+          "unit_price": 8000,
+          "subtotal": 32000,
+          "notes": ""
+        },
+        {
+          "menu_item_id": "48d213f7",
+          "menu_item_name": "Coca-Cola",
+          "quantity": 2,
+          "unit_price": 12000,
+          "subtotal": 24000,
+          "notes": ""
+        }
+      ],
+      "status": "preparing",
+      "subtotal": 56000,
+      "discount_percent": 0.0,
+      "discount_amount": 0.0,
+      "total": 56000.0,
+      "item_count": 6,
+      "special_instructions": "",
+      "created_at": "2026-05-08T22:51:03.818120",
+      "updated_at": "2026-05-08T22:51:09.637809"
+    },
+    "ORD-73F785": {
+      "id": "ORD-73F785",
+      "customer_name": "Tolib",
+      "order_type": "dine_in",
+      "table_number": "3",
+      "items": [
+        {
+          "menu_item_id": "98ae5bdc",
+          "menu_item_name": "Lag'mon",
+          "quantity": 1,
+          "unit_price": 35000,
+          "subtotal": 35000,
+          "notes": ""
+        },
+        {
+          "menu_item_id": "d1294fef",
+          "menu_item_name": "Chuchvara",
+          "quantity": 1,
+          "unit_price": 30000,
+          "subtotal": 30000,
+          "notes": ""
+        }
+      ],
+      "status": "delivered",
+      "subtotal": 65000,
+      "discount_percent": 10.0,
+      "discount_amount": 6500.0,
+      "total": 58500.0,
+      "item_count": 2,
+      "special_instructions": "",
+      "created_at": "2026-05-10T14:04:33.381181",
+      "updated_at": "2026-05-10T14:05:06.125139"
+    },
+    "ORD-903933": {
+      "id": "ORD-903933",
+      "customer_name": "Lola",
+      "order_type": "takeaway",
+      "table_number": null,
+      "items": [
+        {
+          "menu_item_id": "9bcf2311",
+          "menu_item_name": "Osh",
+          "quantity": 1,
+          "unit_price": 45000,
+          "subtotal": 45000,
+          "notes": ""
+        },
+        {
+          "menu_item_id": "d1294fef",
+          "menu_item_name": "Chuchvara",
+          "quantity": 1,
+          "unit_price": 30000,
+          "subtotal": 30000,
+          "notes": ""
+        },
+        {
+          "menu_item_id": "8ecd4fea",
+          "menu_item_name": "Ko'k choy",
+          "quantity": 1,
+          "unit_price": 8000,
+          "subtotal": 8000,
+          "notes": ""
+        }
+      ],
+      "status": "delivered",
+      "subtotal": 83000,
+      "discount_percent": 5.0,
+      "discount_amount": 4150.0,
+      "total": 78850.0,
+      "item_count": 3,
+      "special_instructions": "",
+      "created_at": "2026-05-10T14:16:46.072910",
+      "updated_at": "2026-05-10T14:17:04.101112"
+    }
+  },
+  "payments": {
+    "PAY-81FBF6": {
+      "id": "PAY-81FBF6",
+      "order_id": "ORD-87B3CB",
+      "amount": 53000.0,
+      "method": "cash",
+      "method_display": "💵 Naqd",
+      "status": "completed",
+      "transaction_id": "TXN-DCED450A",
+      "notes": "",
+      "cashier_name": "Kassir",
+      "created_at": "2026-05-08T22:48:59.419727",
+      "completed_at": "2026-05-08T22:48:59.419758"
+    },
+    "PAY-CB3805": {
+      "id": "PAY-CB3805",
+      "order_id": "ORD-FE9AF1",
+      "amount": 100000.0,
+      "method": "cash",
+      "method_display": "💵 Naqd",
+      "status": "completed",
+      "transaction_id": "TXN-370A1FC2",
+      "notes": "",
+      "cashier_name": "Kassir",
+      "created_at": "2026-05-08T22:49:51.731011",
+      "completed_at": "2026-05-08T22:49:51.731034"
+    },
+    "PAY-566701": {
+      "id": "PAY-566701",
+      "order_id": "ORD-73F785",
+      "amount": 58500.0,
+      "method": "online",
+      "method_display": "🌐 Online",
+      "status": "completed",
+      "transaction_id": "TXN-346C6FC1",
+      "notes": "",
+      "cashier_name": "Kassir",
+      "created_at": "2026-05-10T14:05:06.124916",
+      "completed_at": "2026-05-10T14:05:06.125021"
+    },
+    "PAY-30EF2B": {
+      "id": "PAY-30EF2B",
+      "order_id": "ORD-903933",
+      "amount": 78850.0,
+      "method": "click",
+      "method_display": "📱 Click",
+      "status": "completed",
+      "transaction_id": "TXN-8CE09A21",
+      "notes": "",
+      "cashier_name": "Kassir",
+      "created_at": "2026-05-10T14:17:04.101031",
+      "completed_at": "2026-05-10T14:17:04.101065"
+    }
+  },
+  "metadata": {
+    "created_at": "2026-05-08T22:47:00",
+    "version": "1.0",
+    "status": "cleared"
+  }
+}
