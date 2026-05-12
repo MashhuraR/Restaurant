@@ -1,5 +1,5 @@
 /* api.js — Backend bilan muloqot */
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://restaurant-auym.onrender.com/api';
 
 const API = {
   async _req(method, path, body = null) {
